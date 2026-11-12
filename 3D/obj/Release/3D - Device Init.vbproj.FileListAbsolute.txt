@@ -1,0 +1,12 @@
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\_3D___Device_Init.exe
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\_3D___Device_Init.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.Direct3D.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.Direct3D.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\Release\_3D___Device_Init.Form1.resources
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\Release\3D - Device Init.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\Release\_3D___Device_Init.exe
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\Release\_3D___Device_Init.xml

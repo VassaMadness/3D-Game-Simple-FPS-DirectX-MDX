@@ -1,0 +1,29 @@
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.Direct3D.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.dll
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\3D - Device Init.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\DeviceInit.Form1.resources
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\DeviceInit.exe
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\DeviceInit.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\DeviceInit.exe
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\DeviceInit.xml
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\3D - Device Init.vbprojResolveAssemblyReference.cache
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\DeviceInit.Form2.resources
+C:\Users\Jorge\Downloads\INTERESANTE\3D\obj\x86\Release\DeviceInit.Form3.resources
+C:\Users\Jorge\Downloads\INTERESANTE\3D\bin\x86\Release\DeviceInit.exe.config
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\DeviceInit.exe.config
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\DeviceInit.exe
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\DeviceInit.xml
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\Microsoft.DirectX.xml
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\Microsoft.DirectX.Direct3D.xml
+C:\Users\ASUS\source\repos\3D\3D\bin\x86\Release\Microsoft.DirectX.Direct3DX.xml
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\3D - Device Init.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\DeviceInit.Form3.resources
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\3D - Device Init.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\3D - Device Init.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\3D - Dev.29078A8B.Up2Date
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\DeviceInit.exe
+C:\Users\ASUS\source\repos\3D\3D\obj\x86\Release\DeviceInit.xml
